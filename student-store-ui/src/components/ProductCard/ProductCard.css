@@ -1,0 +1,116 @@
+/* .card{
+    background: white;
+    border: 1px solid #e0e0e0;
+    margin: auto;
+}
+.image{
+    height:200px;
+    width: 200px;
+} */
+
+.product-card{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    margin-bottom: 30px;
+}
+
+.product-card .desc{
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px;
+    width: 70%;
+}
+/* /* .product-card .media{
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+} */
+
+.product-grid .product-card{
+    height: 350px;
+    width: 250px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+}
+.product-grid .product-card .media{
+    height: 250px;
+    width: 100%;
+    margin-left: -20px;
+}
+.product-grid .product-card .media img{
+    height: 250px;
+    width: 248px;
+}
+.product-card .product-info{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid #e4e4e4;
+}
+.product-card .main-info{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    /* padding: 8px 12px; */
+    padding-left: 12px;
+    padding-right: 12px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.product-card .main-info .product-name{
+    font-size: 15px;
+    font-weight: 500;
+}
+.product-card .main-info .product-price{
+    font-size: 14px;
+}
+.product-card .action{
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.product-card .buttons{
+    width: 80px;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+.product-card .buttons button{
+    display: flex;
+    outline: none;
+    border: none;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+    max-height: fit-content;
+    max-width: fit-content;
+    /* margin: 10px 5px; */
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 15px;
+}
+.product-card .buttons i{
+    width: 20px;
+    height: 20px;
+    border: 1px solid #00c385;
+    color: #00c385;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}

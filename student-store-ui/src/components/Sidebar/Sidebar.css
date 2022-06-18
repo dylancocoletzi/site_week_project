@@ -1,0 +1,47 @@
+.sidebar.closed{
+    width: 60px;
+}
+.sidebar{
+    background-color: #2c4047;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 575px;
+    align-items: center;
+    border-right: solid 1px white;
+}
+.sidebar .wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sidebar .toggle-button{
+    background: transparent;
+    /* border: none; */
+    color: white;
+    margin-top: 20px;
+}
+.material-icons.md-48{
+    font-size: 40px;
+}
+.shopping-cart{
+    color: white;
+}
+.shopping-cart .cart-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    width: 100%;
+    padding-left: 0.5rem;
+}
+.shopping-cart .cart-icon {
+    margin-bottom: 16px;
+}
+/* i{
+    margin-right: 10px;
+    cursor: pointer;
+    color: white;
+} */

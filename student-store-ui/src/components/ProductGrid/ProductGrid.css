@@ -1,0 +1,19 @@
+.product-grid{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.product-grid .content{
+    display: flex;
+    flex-direction: column;
+}
+.product-grid .content h3{
+    margin: 10px 0 30px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.product-grid .content .grid{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px
+}
