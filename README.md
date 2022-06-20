@@ -286,6 +286,7 @@ The following specifications were met on the Express backend and the React front
 Reflection
 
 Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
+
 The topics discussed in this week lab did prepare me to complete the assignment. The first lab about the food restaurant menu did prepare me because it thought me about props. It taught me about the importance of understanding what data is being passed down to child components such as arrays, useState set function, and functions to add on event listeners. For example, we passed a function to identify which button is being clicked on. The features in my weekly assignment that I felt unprepared to complete is being able to fetch the data using axios and router because these features were not implemented in the labs but they were not to difficult to implement.
 
 If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
