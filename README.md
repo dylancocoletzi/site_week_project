@@ -290,7 +290,8 @@ Did the topics discussed in your labs prepare you to complete the assignment? Be
 The topics discussed in this week lab did prepare me to complete the assignment. The first lab about the food restaurant menu did prepare me because it thought me about props. It taught me about the importance of understanding what data is being passed down to child components such as arrays, useState set function, and functions to add on event listeners. For example, we passed a function to identify which button is being clicked on. The features in my weekly assignment that I felt unprepared to complete is being able to fetch the data using axios and router because these features were not implemented in the labs but they were not to difficult to implement.
 
 If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-Add your response here
+
+If I had more time, I would have started differently. I spent about one hour trying to understand where to start and felt lost. If I could have done it differently, I would try to asked for help on how to start the project and interpet all the information provided. With more time, I would have liked to implement the shopping cart feature and the checkout information because these feature makes the project complete.
 
 Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 Add your response here
