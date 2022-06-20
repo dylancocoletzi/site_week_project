@@ -294,7 +294,8 @@ If you had more time, what would you have done differently? Would you have added
 If I had more time, I would have started differently. I spent about one hour trying to understand where to start and felt lost. If I could have done it differently, I would try to asked for help on how to start the project and interpet all the information provided. With more time, I would have liked to implement the shopping cart feature and the checkout information because these feature makes the project complete.
 
 Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
-Add your response here
+
+Reflecting on my project demo, I believe my presentation and app went well because I had all except one core feature. I did want to say more and give special shout outs but unfortunealty the presentation period was short to fit all people so we were rushed. One thing I notice that my peer did that I would like to try next time is personalize my own webpage instead of copying the sample webpage.
 
 Open-source libraries used
 
@@ -302,3 +303,5 @@ Add any links to open-source libraries used in your project.
 Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+
+I would love to give a shout out to Amber and Jose from my pod, pod one because they helped me out so much. When we were doing the project, we were all doing the project together asking each other for help when we were stuck. No one was left behind because we always made sure we were all making progress. I will also like to give a shout to Roy and Amber becuase they made learning and debugging fun.
